@@ -1,0 +1,10 @@
+{
+	"type": "mashup",
+	"name": "Helpdesk",
+	"description": "Mashup demoing accessible through Qlik Cloud",
+	"author": "ivan.felipe@qlik.com",
+	"keywords": "qlik cloud, visualization, mashup, helpdesk",
+	"dependencies": {
+		"qlik-sense": ">=1.0.x"
+	}
+}
