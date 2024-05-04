@@ -8,7 +8,7 @@ var config = {
     prefix: '/',
     port: 443,
     isSecure: true,
-    webIntegrationId: 'web-integration-id-here'
+    webIntegrationId: '5c851ac744024932bd44b2b7e6db3ba4'
 };
 require.config( {
     baseUrl: ( config.isSecure ? "https://" : "http://" ) + config.host + (config.port ? ":" + config.port : "") + config.prefix + "resources",
